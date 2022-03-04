@@ -1,2 +1,2 @@
 # Web Scraper
- A collection of scripts to scrape data off of websites.
+ Using the Beautiful Soup library for scraping. Currently only Newegg but exploring other sites.
