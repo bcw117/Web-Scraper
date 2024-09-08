@@ -1,4 +1,4 @@
-# Web Scraper
+# Tech-Scraper
 A collection of scripts that scrape store data about products that you are interested in purchasing. Developed using Python and the BeautifulSoup.
 
 ## Usage
